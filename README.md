@@ -1,1 +1,1 @@
-# Power-Electronics-with-LTspice
+# Electronics-with-LTspice
